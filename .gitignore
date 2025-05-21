@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# SSBM Ranking Pipeline outputs
+h2h_per_tournament/
+slug_log.txt
+
